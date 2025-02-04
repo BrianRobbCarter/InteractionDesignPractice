@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(76, 21, 228);
+    font-family: Arial, Helvetica, sans-serif;
+    color:rgb(52, 52, 52)
+}
+
+a {
+    color:  rgb(52, 52, 52);
+    text-decoration: none;
+}
+
+p {
+    color: rgb(177, 175, 187);
+}
+
+div {
+    padding: 30px;
+    padding-left: 120px;
+    margin-bottom: 50px;
+    background-color: rgb(215, 215, 235);
+
+}
+
+h1{
+    color: rgb(215, 215, 235);
+}
+
+h2{
+    color: rgb(52, 52, 52);
+}
